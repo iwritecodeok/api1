@@ -1,3 +1,4 @@
+## Setting up 
 - created repo
 - cloned it
 - opened in editor

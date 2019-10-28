@@ -10,4 +10,4 @@ server.get('/', (req,res) => {
 
 // listen for requests in a particular prot on localhost
 const port = 8000; // localhost:8000
-server.listen(port, () => vonsole.log('\n=== API on port 8000 ===\n'));
+server.listen(port, () => console.log('\n=== API on port 8000 ===\n'));
